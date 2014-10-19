@@ -1,4 +1,4 @@
 naamkarna
 =========
 
-Hindu baby name analyzer
+Hindu baby name analyzer.
