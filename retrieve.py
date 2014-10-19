@@ -2,19 +2,19 @@
 import string
 import urllib
 import sys
+import re
 import BeautifulSoup
 
 def main():
-    if len(sys.argv) < 3:
-        print "Usage python retrieve.py boy|girl include_meanings(yes/no)"
+    if len(sys.argv) < 2:
+        print "Usage python retrieve.py boy|girl"
         return
 
     gender = sys.argv[1]
-    include_meanings = sys.argv[2]
     for alpha in string.lowercase:
-        get_names(alpha, gender, include_meanings=='yes')
+        get_names(alpha, gender)
 
-def get_names(alpha, gender, include_meanings):
+def get_names(alpha, gender):
     f = urllib.urlopen('http://www.indianhindunames.com/indian-hindu-%s-name-%s.htm' % (gender, alpha))
     soup = BeautifulSoup.BeautifulSoup(f.read())
     f.close()
@@ -25,11 +25,10 @@ def get_names(alpha, gender, include_meanings):
         for line in p.prettify().split('\n'):
             if not ' = ' in line:
                 continue
-
-            if include_meanings:
-                print line
-            else:
-                print line.split(' = ')[0]
+            
+            name = line.split(' = ')[0]
+            for n in re.split('\,|\/', name):
+                print n.strip()
 
 
 if __name__ == "__main__":

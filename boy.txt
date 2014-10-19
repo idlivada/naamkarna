@@ -59,7 +59,8 @@ Abhirup
 Abhisar
 Abhishek
 Abhivaadan
-Abhivanth / Abivanth
+Abhivanth
+Abivanth
 Abhra
 Abhyudaya
 Achal
@@ -88,7 +89,7 @@ Advay
 Advaya
 Advik
 Adwaita
-	Aganveer
+Aganveer
 Agastya
 Agendra
 Agharna
@@ -238,7 +239,8 @@ Anuj
 Anunay
 Anupam
 Anuraag
-Anurup, Anuroop
+Anurup
+Anuroop
 Anuttam
 Anuva
 Appu
@@ -328,7 +330,8 @@ Avinashi
 Avirat
 Avkash
 Avtar
-Avyukt, Avyukta
+Avyukt
+Avyukta
 Ayog
 Ayudh
 Baadal
@@ -1215,7 +1218,8 @@ Jayesh
 Jayin
 Jaysukh
 Jeeval
-Jeevan / Jeeva
+Jeevan
+Jeeva
 Jeevanprakash
 Jeevaraaj
 Jeevesh
@@ -1492,7 +1496,8 @@ Lakshmiraman
 Lakshya
 Lalam
 Lalan
-Lalchand, Lalchandra
+Lalchand
+Lalchandra
 Lalit
 Lalitaditya
 Lalitchandra
@@ -1758,7 +1763,8 @@ Naagarjun
 Naagdhar
 Naagendra
 Naagesh
-Naagpal, Nagpal
+Naagpal
+Nagpal
 Naagpati
 Naag-raaj
 Naakesh
@@ -2074,7 +2080,8 @@ Pavak
 Pavan
 Pavanaj
 Pavankumar
-Pavansut, Pavanputra
+Pavansut
+Pavanputra
 Pavitra
 Payas
 Payod
@@ -2305,7 +2312,8 @@ Raivata
 Raj
 Raja
 Rajan
-Rajaneesh, Rajnish
+Rajaneesh
+Rajnish
 Rajani
 Rajanikant
 Rajas
@@ -2910,7 +2918,8 @@ Shreedhar
 Shreeharsh
 Shreekant
 Shreekrishna
-Shreekumar, shrikumar
+Shreekumar
+shrikumar
 Shreeman
 Shreepriya
 Shreepushp
@@ -2924,7 +2933,8 @@ Shresthi
 Shrey
 Shreyank
 Shreyansh
-Shreyas / Sreyas
+Shreyas
+Sreyas
 Shreyash
 Shrida
 Shridhar
@@ -3008,7 +3018,8 @@ Siddhraj
 Siddid
 Sihaam
 Sikandar
-Simrit, Smrita
+Simrit
+Smrita
 Sindhu
 Sindhunath
 Sinha
@@ -3090,7 +3101,8 @@ Subhash
 Subhendu
 Subinay
 Subodh
-Subrahmanya, Subramani
+Subrahmanya
+Subramani
 Suchendra
 Suchet
 Suchin
@@ -3133,7 +3145,8 @@ Sujay
 Sujendran
 Sujit
 Suka
-Sukant/Sukanta
+Sukant
+Sukanta
 Sukarma
 Sukarman
 Sukumar

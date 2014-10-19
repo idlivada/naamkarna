@@ -274,7 +274,7 @@ Apurva
 Araceli
 Aradhana
 Aradhya
-Arathi 
+Arathi
 Archa
 Archana
 Archini
@@ -367,7 +367,8 @@ Babita
 Bageshri
 Bahugandha
 Bahula
-Baijanti / vaijanti
+Baijanti
+vaijanti
 Bairavi
 Baka
 Bakul
@@ -622,7 +623,8 @@ Ekaparnika
 Ekta
 Ela
 Elina
-Eswary, Eshwari
+Eswary
+Eshwari
 Esha
 Eta
 Falguni
@@ -630,7 +632,8 @@ Forum
 Fulki
 Fullan
 Fulmala
-Gajra, Gajara
+Gajra
+Gajara
 Gandhali
 Ganesa
 Ganga
@@ -868,11 +871,12 @@ Jyeshtha
 Jyena
 Jyoti
 Jyotika
-Jyotirmayi / Jyothirmaayee
+Jyotirmayi
+Jyothirmaayee
 Jyotishmati
 Jyotsna
-Kaajal 
-Kaalaka 
+Kaajal
+Kaalaka
 Kaalanjari
 Kaamakya
 Kaasni
@@ -880,8 +884,8 @@ Kadambari
 Kadambini
 Kairavi
 Kaishori
-Kajjali 
-Kajol 
+Kajjali
+Kajol
 Kajri
 Kakali
 Kakoli
@@ -915,12 +919,12 @@ Kani
 Kanika
 Kanira
 Kanjri
-Kankalini 
+Kankalini
 Kankana
 Kannaki
 Kanta
 Kanti
-Kanupriya 
+Kanupriya
 Kanya
 Kanyaka
 Kaksi
@@ -954,10 +958,10 @@ Kautirya
 Kavika
 Kavin
 Kavita
-Kaviya 
-Kavishri 
+Kaviya
+Kavishri
 Kavni
-Kavya 
+Kavya
 Keertana
 Keerthana
 Keerthi
@@ -984,12 +988,13 @@ Kirtmalini
 Kishmish
 Komal
 Koyel
-Kosi, Kosika 
+Kosi
+Kosika
 Kranti
 Kripi
 Krisha
 Krishi
-Krishna 
+Krishna
 Krishnakali
 Kriti
 Krittika
@@ -1312,7 +1317,8 @@ Mudrika
 Mugdha
 Mukta
 Mukti
-Mukula, Mukulita
+Mukula
+Mukulita
 Mukunda
 Muniya
 Muskan
@@ -1581,7 +1587,8 @@ Pranauthi
 Pranavi
 Pranaya
 Pranidhi
-Pranita / Pranitha
+Pranita
+Pranitha
 Pranjal
 Pranjali
 Pranvuta
@@ -1648,7 +1655,8 @@ Pulakita
 Puloma
 Punarnava
 Punarvi
-Punam, Poonam
+Punam
+Poonam
 Punita
 Punthali
 Punya
@@ -1761,11 +1769,13 @@ Revathi
 Revati
 Rewa
 Rhea
-Ria, Rhia
+Ria
+Rhia
 Richa
 Riddhi
 Ridhima
-Riju/ Rijul
+Riju
+Rijul
 Rijuta
 Rima
 Rina
@@ -1882,7 +1892,8 @@ Sampada
 Sampatti
 Sampriti
 Samreen
-Samriddhi / Samruddhi
+Samriddhi
+Samruddhi
 Samrta
 Samskara
 Samvidha
@@ -2179,7 +2190,8 @@ Sikata
 Sikta
 Simbala
 Simran
-Simrit, Smrita
+Simrit
+Smrita
 Sindhu
 Sindhuja
 Sinhayana
@@ -2217,7 +2229,8 @@ Somansh
 Somatra
 Somila
 Somya
-Sona, Soni
+Sona
+Soni
 Sonakshi
 Sonal
 Sonali
@@ -2235,7 +2248,8 @@ Sravanti
 Sreya
 Srichaitra
 Sridatri
-Sridevi, Sreedevi
+Sridevi
+Sreedevi
 Srinithi
 Srisha
 Sristi
@@ -2564,7 +2578,8 @@ Udyati
 Ujas
 Ujhala
 Ujjayini
-Ujjwala/Ujvala
+Ujjwala
+Ujvala
 Ulka
 Ullupi
 Ulupya
@@ -2611,7 +2626,8 @@ Vagisha
 Vagishwari
 Vaidarbhi
 Vaidehi
-Vaiga, Vaigai
+Vaiga
+Vaigai
 Vaijayanti
 Vaijayantimala
 Vainavi
@@ -2791,7 +2807,8 @@ Yamya
 Yashasvi
 Yashawini
 Yashi
-Yashika / Yashica
+Yashika
+Yashica
 Yashila
 Yashita
 Yashoda
